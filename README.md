@@ -2,6 +2,8 @@
 
 I'm currently using [Codeberg](https://codeberg.org/anhkhoakz/) for all of my code storage and management needs.
 
+I have a blog on [Bear Blog](https://anhkhoakz.bearblog.dev/).
+
 I'm passionate about Software Engineering and always looking to expand my knowledge in this field.
 
 ## 👩‍💻 Contributions Welcome
