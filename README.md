@@ -7,4 +7,4 @@
 
 - 📝 I regularly write articles on [my website](https://anhkhoakz.dev/)
 
-- 📫 Reach me via **unbuckled_staunch341@8alias.com**height="40"/> </a> </p>
+- 📫 Reach me via **unbuckled_staunch341@8alias.com**
