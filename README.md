@@ -5,6 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [![Codeberg](imgs/codeberg.svg) @anhkhoakz](https://codeberg.org/anhkhoakz/)
 
-- 📝 I regularly write articles on [my website](https://anhkhoakz.dev/)
+- 📝 I regularly write articles on [anhkhoakz.dev](https://anhkhoakz.dev/)
 
 - 📫 Reach me via **unbuckled_staunch341@8alias.com**
