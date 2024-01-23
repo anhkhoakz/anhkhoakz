@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [anhkhoakz.dev](https://anhkhoakz.dev/)
 
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Privacy In Budget](http://anhkhoakz.dev/blog/privacy-in-budget/)
