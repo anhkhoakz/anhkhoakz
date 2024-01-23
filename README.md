@@ -3,7 +3,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=anhkhoakz&label=Profile%20views&color=0e75b6&style=flat)
 
-- 👨‍💻 All of my projects are available at [![Codeberg Icon](https://design.codeberg.org/logo-kit/icon.svg) @anhkhoakz](https://codeberg.org/anhkhoakz/)
+- 👨‍💻 All of my projects are available at [![Codeberg](imgs/codeberg.svg) @anhkhoakz](https://codeberg.org/anhkhoakz/)
 
 - 📝 I regularly write articles on [my website](https://anhkhoakz.dev/)
 
