@@ -13,7 +13,6 @@
 - [Privacy In Budget](http://anhkhoakz.dev/blog/privacy-in-budget/)
 - [Browsers for Daily Using](http://anhkhoakz.dev/blog/browsers-for-daily-using/)
 - [There is no privacy email](http://anhkhoakz.dev/blog/no-privacy-email/)
-- [About](http://anhkhoakz.dev/about/)
 <!-- BLOG-POST-LIST:END -->
 
 - 📫 Reach me via **unbuckled_staunch341@8alias.com**
