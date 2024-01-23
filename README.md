@@ -7,4 +7,9 @@
 
 - 📝 I regularly write articles on [anhkhoakz.dev](https://anhkhoakz.dev/)
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - 📫 Reach me via **unbuckled_staunch341@8alias.com**
