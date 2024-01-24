@@ -10,9 +10,9 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy In Budget](http://anhkhoakz.dev/blog/privacy-in-budget/)
-- [Browsers for Daily Using](http://anhkhoakz.dev/blog/browsers-for-daily-using/)
-- [There is no privacy email](http://anhkhoakz.dev/blog/no-privacy-email/)
+- [Privacy In Budget](https://anhkhoakz.dev/blog/privacy-in-budget/)
+- [Browsers for Daily Using](https://anhkhoakz.dev/blog/browsers-for-daily-using/)
+- [There is no privacy email](https://anhkhoakz.dev/blog/no-privacy-email/)
 <!-- BLOG-POST-LIST:END -->
 
 - 📫 Reach me via **unbuckled_staunch341@8alias.com**
