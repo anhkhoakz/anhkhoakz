@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [anhkhoakz.dev](https://anhkhoakz.dev/)
 
+- 📫 Reach me via **unbuckled_staunch341@8alias.com**
+
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -15,4 +17,4 @@
 - [There is no privacy email](https://www.anhkhoakz.dev/blog/no-privacy-email/)
 <!-- BLOG-POST-LIST:END -->
 
-- 📫 Reach me via **unbuckled_staunch341@8alias.com**
+
