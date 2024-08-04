@@ -12,9 +12,9 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TDTU Student Portal](https://www.anhkhoakz.dev/blog/hethongtdtu/)
 - [Privacy In Budget](https://www.anhkhoakz.dev/blog/privacy-in-budget/)
 - [Browsers for Daily Using](https://www.anhkhoakz.dev/blog/browsers-for-daily-using/)
-- [There is no privacy email](https://www.anhkhoakz.dev/blog/no-privacy-email/)
 <!-- BLOG-POST-LIST:END -->
 
 
