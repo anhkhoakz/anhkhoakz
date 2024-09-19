@@ -5,17 +5,21 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anhkhoakz&label=Profile%20views&color=0e75b6&style=flat"></img></p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true" />
-</picture>
+<div align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true" />
+  </picture>
+</div>
+
+## About me 🧑‍💻
 
 -   👨‍💻 Some of my projects are available at <a href="https://sr.ht/~anhkhoakz/"><i class="simple-icons--sourcehut"></i> SourceHut</a>
 -   📝 I write articles on [anhkhoakz.dev](https://www.anhkhoakz.dev/)
