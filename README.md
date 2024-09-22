@@ -27,8 +27,7 @@
 ## Blog posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-
--   [Now](https://www.anhkhoakz.dev/now/)
--   [Privacy In Budget](https://www.anhkhoakz.dev/blog/privacy-in-budget/)
--   [Browsers for Daily Using](https://www.anhkhoakz.dev/blog/browsers-for-daily-using/)
+- [Now](https://www.anhkhoakz.dev/now/)
+- [Privacy In Budget](https://www.anhkhoakz.dev/blog/privacy-in-budget/)
+- [Browsers for Daily Using](https://www.anhkhoakz.dev/blog/browsers-for-daily-using/)
 <!-- BLOG-POST-LIST:END -->
