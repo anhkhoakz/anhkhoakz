@@ -19,7 +19,7 @@
 
 ## About me 🧑‍💻
 
--   👨‍💻 Some of my projects are available at <a href="https://sr.ht/~anhkhoakz/"><img src="https://github.com/user-attachments/assets/17762a52-890f-45ab-b991-96aab6133361" alt="SourceHut" width="15" height="15"> SourceHut</a>
+-   👨‍💻 Some of my projects are available at [![SourceHut](https://img.shields.io/badge/anhkhoakz-white?style=for-the-badge&logo=sourcehut&logoColor=black)](https://sr.ht/~anhkhoakz/)
 -   📝 I write articles on [anhkhoakz.dev](https://www.anhkhoakz.dev/)
 
 -   📫 Reach me via [email](mailto:snugness_atlantic236@aleeas.com)
