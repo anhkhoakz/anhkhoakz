@@ -19,16 +19,63 @@
 
 ## About me 🧑‍💻
 
--   👨‍💻 Some of my projects are available at <a href="https://sr.ht/~anhkhoakz/"><img src="https://github.com/user-attachments/assets/17762a52-890f-45ab-b991-96aab6133361" alt="SourceHut" width="15" height="15"> SourceHut</a>
 -   📝 I write articles on [anhkhoakz.dev](https://www.anhkhoakz.dev/)
 
 -   📫 Reach me via [email](mailto:snugness_atlantic236@aleeas.com)
 
-## Blog posts 📝
+## Code Hosting 🚀
 
-<!-- BLOG-POST-LIST:START -->
+<p>
+  <a href="https://sr.ht/~anhkhoakz/" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/SourceHut-white?style=for-the-badge&logo=sourcehut&logoColor=black"
+          alt="sourcehut"/>
+  </a>
+  <a href="https://codeberg.org/anhkhoakz/" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=codeberg&logoColor=black"
+          alt="codeberg" />
+  </a>
+</p>
 
--   [Now](https://www.anhkhoakz.dev/now/)
--   [Privacy In Budget](https://www.anhkhoakz.dev/blog/privacy-in-budget/)
--   [Browsers for Daily Using](https://www.anhkhoakz.dev/blog/browsers-for-daily-using/)
-<!-- BLOG-POST-LIST:END -->
+## Connect with me 🤝
+
+<p>
+  <a href="https://www.hackerrank.com/anhkhoakz" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=black"
+          alt="hackerrank"/>
+  </a>
+  <a href="https://www.leetcode.com/anhkhoakz" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/leetcode-white?style=for-the-badge&logo=leetcode&logoColor=black"
+          alt="leetcode" />
+  </a>
+</p>
+<p>
+<a href="https://linkedin.com/in/anhkhoakz" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=black"
+            alt="linkedin" />
+    </a>
+    <a href="/https://www.anhkhoakz.dev/index.xml" target="blank">
+        <img align="center"
+            src="https://img.shields.io/badge/rss-white?style=for-the-badge&logo=rss&logoColor=black"
+            alt="rss" />
+    </a>
+</p>
+
+## Support me 🙏
+
+<p>
+  <a href="https://www.buymeacoffee.com/anhkhoakz" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/buymeacoffee-white?style=for-the-badge&logo=buymeacoffee&logoColor=black"
+          alt="buymeacoffee"/>
+  </a>
+  <a href="https://ko-fi.com/anhkhoakz" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/kofi-white?style=for-the-badge&logo=kofi&logoColor=black"
+          alt="ko-fi" />
+  </a>
+</p>
