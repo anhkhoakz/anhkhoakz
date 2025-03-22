@@ -21,7 +21,7 @@
 
 -   📝 I write articles on [anhkhoakz.dev](https://www.anhkhoakz.dev/)
 
--   📫 Reach me via [email](mailto:snugness_atlantic236@aleeas.com)
+-   📫 Reach me via [snugness_atlantic236(at)aleeas.com](mailto:snugness_atlantic236(at)aleeas.com)
 
 ## Code Hosting 🚀
 
@@ -33,8 +33,13 @@
   </a>
   <a href="https://codeberg.org/anhkhoakz/" target="blank">
       <img align="center"
-          src="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=codeberg&logoColor=black"
+          src="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=forgejo&logoColor=black"
           alt="codeberg" />
+  </a>
+  <a href="https://framagit.org/anhkhoakz" target="blank">
+      <img align="center"
+          src="https://img.shields.io/badge/framagit-white?style=for-the-badge&logo=gitlab&logoColor=black"
+          alt="framagit" />
   </a>
 </p>
 
@@ -53,29 +58,14 @@
   </a>
 </p>
 <p>
-<a href="https://linkedin.com/in/anhkhoakz" target="blank">
+<a href="https://www.reddit.com/user/OddPlenty9884/" target="blank">
         <img align="center"
-            src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=black"
-            alt="linkedin" />
+            src="https://img.shields.io/badge/reddit-white?style=for-the-badge&logo=reddit&logoColor=black"
+            alt="reddit" />
     </a>
     <a href="/https://www.anhkhoakz.dev/index.xml" target="blank">
         <img align="center"
             src="https://img.shields.io/badge/rss-white?style=for-the-badge&logo=rss&logoColor=black"
             alt="rss" />
     </a>
-</p>
-
-## Support me 🙏
-
-<p>
-  <a href="https://www.buymeacoffee.com/anhkhoakz" target="blank">
-      <img align="center"
-          src="https://img.shields.io/badge/buymeacoffee-white?style=for-the-badge&logo=buymeacoffee&logoColor=black"
-          alt="buymeacoffee"/>
-  </a>
-  <a href="https://ko-fi.com/anhkhoakz" target="blank">
-      <img align="center"
-          src="https://img.shields.io/badge/kofi-white?style=for-the-badge&logo=kofi&logoColor=black"
-          alt="ko-fi" />
-  </a>
 </p>
