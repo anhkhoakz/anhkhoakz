@@ -59,10 +59,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=forgejo&logoColor=black"
+        srcset="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=forgejo"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=forgejo&logoColor=black" alt="CodeBerg">
+      <img align="center" src="https://img.shields.io/badge/CodeBerg-white?style=for-the-badge&logo=forgejo" alt="CodeBerg">
     </picture>
   </a>
   <a href="https://framagit.org/anhkhoakz" target="_blank">
@@ -72,10 +72,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Framagit-white?style=for-the-badge&logo=gitlab&logoColor=black"
+        srcset="https://img.shields.io/badge/Framagit-white?style=for-the-badge&logo=gitlab"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io/badge/Framagit-white?style=for-the-badge&logo=gitlab&logoColor=black" alt="Framagit">
+      <img align="center" src="https://img.shields.io/badge/Framagit-white?style=for-the-badge&logo=gitlab" alt="Framagit">
     </picture>
   </a>
 </p>
@@ -90,10 +90,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank&logoColor=black"
+        srcset="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
+      <img align="center" src="https://img.shields.io/badge/HackerRank-white?style=for-the-badge&logo=hackerrank" alt="HackerRank">
     </picture>
   </a>
   <a href="https://www.leetcode.com/anhkhoakz" target="_blank">
@@ -103,10 +103,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode&logoColor=black"
+        srcset="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io-badge/LeetCode-white?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+      <img align="center" src="https://img.shields.io-badge/LeetCode-white?style=for-the-badge&logo=leetcode" alt="LeetCode">
     </picture>
   </a>
   <a href="https://www.reddit.com/user/OddPlenty9884/" target="_blank">
@@ -116,10 +116,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=black"
+        srcset="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io-badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=black" alt="Reddit">
+      <img align="center" src="https://img.shields.io-badge/Reddit-white?style=for-the-badge&logo=reddit" alt="Reddit">
     </picture>
   </a>
   <a href="https://www.anhkhoakz.dev/index.xml" target="_blank">
@@ -129,10 +129,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io-badge/RSS-white?style=for-the-badge&logo=rss&logoColor=black"
+        srcset="https://img.shields.io-badge/RSS-white?style=for-the-badge&logo=rss"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io-badge/RSS-white?style=for-the-badge&logo=rss&logoColor=black" alt="RSS">
+      <img align="center" src="https://img.shields.io-badge/RSS-white?style=for-the-badge&logo=rss" alt="RSS">
     </picture>
   </a>
 </p>
