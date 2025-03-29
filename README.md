@@ -6,14 +6,26 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anhkhoakz&show_icons=true&hide_border=true" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoakz&layout=compact&hide_border=true&theme=dark&"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoakz&theme=default&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: lsight), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoakz&theme=default&layout=compact&hide_border=true" />
   </picture>
 </div>
 
