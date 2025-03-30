@@ -129,10 +129,10 @@
         media="(prefers-color-scheme: dark)"
       />
       <source
-        srcset="https://img.shields.io-badge/RSS-white?style=for-the-badge&logo=rss"
+        srcset="https://img.shields.io/badge/RSS-white?style=for-the-badge&logo=rss"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       />
-      <img align="center" src="https://img.shields.io-badge/RSS-white?style=for-the-badge&logo=rss" alt="RSS">
+      <img align="center" src="https://img.shields.io/badge/RSS-white?style=for-the-badge&logo=rss" alt="RSS">
     </picture>
   </a>
 </p>
