@@ -34,7 +34,7 @@
 ## About me 🧑‍💻
 
 - 📝 I write articles on [anhkhoakz.dev](https://www.anhkhoakz.dev/)
-- 📫 Reach me via [snugness_atlantic236(at)aleeas.com](mailto:snugness_atlantic236(at)aleeas.com)
+- 📫 Reach me via snugness_atlantic236(at)aleeas.com
 
 ## Code Hosting 🚀
 
