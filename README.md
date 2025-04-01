@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm anhkhoakz</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A software engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anhkhoakz&label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views">
