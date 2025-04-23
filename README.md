@@ -32,7 +32,7 @@
 
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoakz&theme=dark&hide_border=true"
+      srcset="https://wakatime.com/share/@a73b3896-837f-4b14-a781-4ad51fad0990/c0ccfb2e-bc2e-489d-8e48-922dc9c5268d.svg"
       media="(prefers-color-scheme: dark)"
     />
     <source
