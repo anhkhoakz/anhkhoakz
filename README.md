@@ -29,6 +29,19 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhkhoakz&theme=default&hide_border=true&hide_progress=true" alt="Top Languages">
   </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=anhkhoakz&theme=dark&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://wakatime.com/share/@a73b3896-837f-4b14-a781-4ad51fad0990/a4784343-192b-4f4c-aef7-f17f2d14ab57.svg"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://wakatime.com/share/@a73b3896-837f-4b14-a781-4ad51fad0990/a4784343-192b-4f4c-aef7-f17f2d14ab57.svg" alt="Wakatime">
+  </picture>
+
 </div>
 
 ## About me 🧑‍💻
