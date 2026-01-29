@@ -4,13 +4,15 @@
 ---
 
 ## About Me
+
 I'm a software engineer who believes in **simple code** and **decentralized platforms**. When I'm not pushing commits, I'm likely writing about the intersection of technology and minimalism.
 
-* **Current Focus:** Building Quality of Life Utilities
-* **Writing:** I share my thoughts on software and life at [anhkhoakz.dev](https://www.anhkhoakz.dev/)
-* **Philosophy:** Keep it simple. Avoid the bloat. 
+- **Current Focus:** Building Quality of Life Utilities
+- **Writing:** I share my thoughts on software and life at [anhkhoakz.dev](https://www.anhkhoakz.dev/)
+- **Philosophy:** Keep it simple. Avoid the bloat.
 
 ## Beyond GitHub
+
 While you're seeing my GitHub profile, I'm a big supporter of the independent forge ecosystem. You can find my alternative mirrors and niche projects here:
 
 <p>
@@ -33,23 +35,23 @@ While you're seeing my GitHub profile, I'm a big supporter of the independent fo
 ---
 
 ## Activity & Grind
+
 <p align="center">
   <picture>
     <source srcset="https://wakatime.com/share/@a73b3896-837f-4b14-a781-4ad51fad0990/c0ccfb2e-bc2e-489d-8e48-922dc9c5268d.svg" media="(prefers-color-scheme: dark)" />
     <source srcset="https://wakatime.com/share/@a73b3896-837f-4b14-a781-4ad51fad0990/a4784343-192b-4f4c-aef7-f17f2d14ab57.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://wakatime.com/share/@a73b3896-837f-4b14-a781-4ad51fad0990/a4784343-192b-4f4c-aef7-f17f2d14ab57.svg" alt="Wakatime" width="400">
+  </picture> 
+  <br>
+  <picture>
+    <img align="center" src="https://gitranks.com/api/badge/v2/anhkhoakz?ranking=c&context=global&type=tier&meta=percentile&label=Contributor+Rank&cornerStyle=squared&labelBgColor=%232e3440&valueBgColor=%23eceff4" alt="SourceHut">
   </picture>
-</p>
-
-<p align="center">
-  <a href="https://www.leetcode.com/anhkhoakz"><img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode" alt="LeetCode"></a>
-  <a href="https://www.hackerrank.com/anhkhoakz"><img src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank" alt="HackerRank"></a>
-  <a href="https://www.reddit.com/user/OddPlenty9884/"><img src="https://img.shields.io/badge/Reddit-black?style=flat-square&logo=reddit" alt="Reddit"></a>
-  <a href="https://www.anhkhoakz.dev/index.xml"><img src="https://img.shields.io/badge/RSS-black?style=flat-square&logo=rss" alt="RSS"></a>
 </p>
 
 ---
 
 ## Reach Me
-* **Email:** `snugness_atlantic236(at)aleeas.com`
-* **Web:** [anhkhoakz.dev](https://www.anhkhoakz.dev/)
+
+- **Email:** `snugness_atlantic236(at)aleeas.com`
+- **Web:** [anhkhoakz.dev](https://www.anhkhoakz.dev/)
+
